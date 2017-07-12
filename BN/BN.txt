@@ -1,0 +1,4 @@
+projectName:Bataille Navale
+participant:Gael;Lucas
+description:Jeu de bataille navale fait en PHP
+url:telligo.obicorp.fr/lucas/BN/
